@@ -1,0 +1,11 @@
+C:\Projects\Empower\Review\Review\obj\Debug\netcoreapp2.0\Review.csprojAssemblyReference.cache
+C:\Projects\Empower\Review\Review\obj\Debug\netcoreapp2.0\Review.csproj.CoreCompileInputs.cache
+C:\Projects\Empower\Review\Review\obj\Debug\netcoreapp2.0\Review.AssemblyInfoInputs.cache
+C:\Projects\Empower\Review\Review\obj\Debug\netcoreapp2.0\Review.AssemblyInfo.cs
+C:\Projects\Empower\Review\Review\bin\Debug\netcoreapp2.0\Review.deps.json
+C:\Projects\Empower\Review\Review\bin\Debug\netcoreapp2.0\Review.runtimeconfig.json
+C:\Projects\Empower\Review\Review\bin\Debug\netcoreapp2.0\Review.runtimeconfig.dev.json
+C:\Projects\Empower\Review\Review\bin\Debug\netcoreapp2.0\Review.dll
+C:\Projects\Empower\Review\Review\bin\Debug\netcoreapp2.0\Review.pdb
+C:\Projects\Empower\Review\Review\obj\Debug\netcoreapp2.0\Review.dll
+C:\Projects\Empower\Review\Review\obj\Debug\netcoreapp2.0\Review.pdb

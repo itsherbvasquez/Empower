@@ -1,0 +1,43 @@
+<!DOCTYPE HTML>
+<html lang="en" dir="ltr">
+<head>
+ <meta charset="utf-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+ <title>Ajax!</title>
+ <link rel="stylesheet" href="C:\Projects\ajax\bootstrap\css\bootstrap.min.css">
+ <link rel="stylesheet" href="C:\Projects\ajax\voting\voting.css">
+ <script type="text/javascript" src="C:\Projects\ajax\js\jquery-3.3.1.min.js"></script>
+ <script type="text/javascript" src="C:\Projects\ajax\voting\voting.js"></script>
+ <script src="C:\Projects\ajax\bootstrap\js\bootstrap.min.js"></script>
+</head>
+<body>
+<div class="buttons" "container-fluid">
+  <div class="row align-items-center">
+
+    <div class="col-sm">
+      <button id="results" type="button" name="button">Get Results</button></div>
+
+    <div class="col-sm">
+      <button id="options" type="button" name="button">Get Options</button></div>
+
+    <div class="col-sm">
+      <button id="myvote" type="button" name="button">Show Your Vote</button></div>
+
+<div class="col-sm">
+    <button id="vote" type="button" name="button">Vote!</button>
+    <div class="input-group"
+    <button id="reset" type="button" name="button">Wanna Reset?</button></div>
+
+ <center><p id="options-container"></p></center>
+
+ <script type="text/javascript">
+ $(document).ready(function(){
+   options();
+   results();
+   vote();
+   myvote();
+   reset();
+ });
+ </script>
+</body>
+</html>
